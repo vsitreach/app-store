@@ -10,7 +10,7 @@
   ],
   "description": "Insert an optical disc (Blu-ray, DVD, CD) and checks to see if it's audio, video (Movie or TV), or data, then rips it.",
   "tipi_version": 2,
-  "version": "v1.11.0",
+  "version": "2.17.5",
   "source": "https://github.com/automatic-ripping-machine/automatic-ripping-machine",
   "exposable": true,
   "supported_architectures": [

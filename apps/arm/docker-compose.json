@@ -2,7 +2,7 @@
   "services": [
     {
       "name": "ARM",
-      "image": "docker pull automaticrippingmachine/automatic-ripping-machine:2.17.5",
+      "image": "automaticrippingmachine/automatic-ripping-machine:2.17.5",
       "isMain": true,
       "internalPort": "80"
     }
