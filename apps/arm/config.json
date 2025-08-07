@@ -1,0 +1,24 @@
+{
+  "name": "ARM",
+  "id": "arm",
+  "available": true,
+  "short_desc": "Automatic Ripping Machine",
+  "author": "automatic-ripping-machine",
+  "port": 8382,
+  "categories": [
+    "media"
+  ],
+  "description": "Insert an optical disc (Blu-ray, DVD, CD) and checks to see if it's audio, video (Movie or TV), or data, then rips it.",
+  "tipi_version": 2,
+  "version": "v1.11.0",
+  "source": "https://github.com/automatic-ripping-machine/automatic-ripping-machine",
+  "exposable": true,
+  "supported_architectures": [
+    "arm64",
+    "amd64"
+  ],
+  "created_at": 1745082405284,
+  "updated_at": 1745674974072,
+  "dynamic_config": true,
+  "form_fields": []
+}
