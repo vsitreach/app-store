@@ -2,7 +2,7 @@
   "services": [
     {
       "name": "ARM",
-      "image": "automatic-ripping-machine/automatic-ripping-machine",
+      "image": "https://github.com/automatic-ripping-machine/automatic-ripping-machine",
       "isMain": true,
       "internalPort": "80"
     }
