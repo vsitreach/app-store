@@ -1,17 +1,17 @@
 {
-  "name": "Whoami",
-  "id": "whoami",
+  "name": "Nicotine+",
+  "id": "nicotine-plus",
   "available": true,
-  "short_desc": "Tiny Go server that prints os information and HTTP request to output.",
-  "author": "traefik",
-  "port": 8382,
+  "short_desc": "Graphical UI for the Soulseek P2P network.",
+  "author": "fletchto99",
+  "port": 6080,
   "categories": [
-    "utilities"
+    "media"
   ],
-  "description": "Tiny Go webserver that prints OS information and HTTP request to output.",
+  "description": "Graphical UI for the Soulseek P2P network.",
   "tipi_version": 2,
-  "version": "v1.11.0",
-  "source": "https://github.com/traefik/whoami",
+  "version": "v4.6",
+  "source": "https://github.com/fletchto99/nicotine-plus-docker",
   "exposable": true,
   "supported_architectures": [
     "arm64",
